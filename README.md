@@ -1,4 +1,4 @@
-# Cardiac-Risk-Machine-Learning-Prediction APp
+# Cardiac-Risk-Machine-Learning-App
 Shiny App classifier predicting cardiac risk. Project completed during MSc Digital Health Karolinska Institutet 
 https://healthdiggers.shinyapps.io/cdss_app/
 
